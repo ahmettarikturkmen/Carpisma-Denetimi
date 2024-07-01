@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|c:\\users\\ms\u0130\\onedrive\\masa\u00FCst\u00FC\\devv\\odev2\\odev2\\\u00E7arp\u0131\u015Fmadenetimi\\carp\u0131smadenetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\\u00E7arp\u0131\u015Fmadenetimi\\carp\u0131smadenetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\yuzey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\yuzey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\silindir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\silindir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\sekiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\sekiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\nokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\nokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\nokta3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\nokta3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\dikd\u00F6rtgenprizmas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\dikd\u00F6rtgenprizmas\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\cember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\cember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\odev2\\geometrik\u015Fekiller\\kure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B4CCEA-B247-4C0D-94B7-2A33C05071B1}|Odev2\\Odev2.csproj|solutionrelative:odev2\\geometrik\u015Fekiller\\kure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Form1.cs",
+              "RelativeToolTip": "Odev2\\Form1.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:35:24.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carp\u0131smaDenetimi.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\\u00C7arp\u0131\u015FmaDenetimi\\Carp\u0131smaDenetimi.cs",
+              "RelativeDocumentMoniker": "Odev2\\\u00C7arp\u0131\u015FmaDenetimi\\Carp\u0131smaDenetimi.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\\u00C7arp\u0131\u015FmaDenetimi\\Carp\u0131smaDenetimi.cs",
+              "RelativeToolTip": "Odev2\\\u00C7arp\u0131\u015FmaDenetimi\\Carp\u0131smaDenetimi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABABAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:23:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Yuzey.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Yuzey.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Yuzey.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Yuzey.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Yuzey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:14:11.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Silindir.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Silindir.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Silindir.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Silindir.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Silindir.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:10:14.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kure.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Kure.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Kure.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Kure.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Kure.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:06:59.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cember.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Cember.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Cember.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Cember.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Cember.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:45:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dikd\u00F6rtgenPrizmas\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Dikd\u00F6rtgenPrizmas\u0131.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Dikd\u00F6rtgenPrizmas\u0131.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Dikd\u00F6rtgenPrizmas\u0131.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Dikd\u00F6rtgenPrizmas\u0131.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:02:34.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dikdortgen.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Dikdortgen.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Dikdortgen.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Dikdortgen.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Dikdortgen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:56:21.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nokta3d.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Nokta3d.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Nokta3d.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Nokta3d.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Nokta3d.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:39:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nokta.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Nokta.cs",
+              "RelativeDocumentMoniker": "Odev2\\Geometrik\u015Eekiller\\Nokta.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Geometrik\u015Eekiller\\Nokta.cs",
+              "RelativeToolTip": "Odev2\\Geometrik\u015Eekiller\\Nokta.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:30:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sekiller.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Sekiller.cs",
+              "RelativeDocumentMoniker": "Odev2\\Sekiller.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Sekiller.cs",
+              "RelativeToolTip": "Odev2\\Sekiller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T08:27:42.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Form1.cs",
+              "RelativeDocumentMoniker": "Odev2\\Form1.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\devv\\Odev2\\Odev2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Odev2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:56:52.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
